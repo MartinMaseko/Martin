@@ -23,11 +23,13 @@ Full architecture write-up: **[localsza-architecture](https://github.com/MartinM
 
 ## Tech stack
 
-**Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+**Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Backend & Frontend:** ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+**Backend & Frontend:** ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 **Data & Cloud:** ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1a1a1a?style=flat&logo=microsoft&logoColor=white) ![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat&logo=azurecosmosdb&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+**APIs & Integrations:** ![REST API](https://img.shields.io/badge/REST_API-black?style=flat) ![Webhooks](https://img.shields.io/badge/Webhooks-black?style=flat) ![API Key Auth](https://img.shields.io/badge/API_Key_Auth-black?style=flat) ![Payment Integration](https://img.shields.io/badge/Payment_Integration-black?style=flat)
 
 ---
 
@@ -46,3 +48,4 @@ Before founding LocalsZA, I worked as a freelance data engineer on retail-bankin
 ---
 
 Reach out at martin@localsza.co.za or connect on [LinkedIn](https://linkedin.com/in/martin-maseko-a76762367).
+
